@@ -1,4 +1,4 @@
-import {Darren, ShreeyaSethi } from "@/configuration/identity";
+import {AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
 export const CHAT_HEADER: string = `AI Event Planner`;
 export const MESSAGE_PLACEHOLDER: string = `Hi! I'm Darren. What event are we planning today?`;
